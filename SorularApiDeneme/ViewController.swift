@@ -3,7 +3,7 @@
 //  SorularApiDeneme
 //
 //  Created by Ali Koç on 3.12.2024.
-// MEHMET FAİK AYHAN
+//
 
 import UIKit
 
